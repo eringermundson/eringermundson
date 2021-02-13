@@ -43,4 +43,5 @@ li {
     font-color: rgb(55, 0, 0);
     display: block;
     float: left;
+    clear: left;
 }
