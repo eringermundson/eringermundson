@@ -7,6 +7,7 @@ p {
     border-style: solid 5px rgb(255, 255, 255);
     font-family: Monospace;
     letter-spacing: 1px;
+    align: center;
 }
 
 .para1 {
