@@ -37,20 +37,15 @@ h2 {
     text-align: left;
 }
 
+h6 {
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
 img {
     width: 500px;
     height: 300px;
     border-style: solid;
     border-color: rgb(255, 255, 255);
     float: right;
-}
-
-aside {
-    width: 50%;
-    padding-left: 200px;
-    margin-left: 200px;
-    float: right;
-    font-family: sans-serif;
-    letter-spacing: 1px;
-    font-size: 6px;
 }
