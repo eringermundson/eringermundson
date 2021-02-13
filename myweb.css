@@ -37,11 +37,6 @@ h2 {
     text-align: left;
 }
 
-h6 {
-    font-family: sans-serif;
-    letter-spacing: 1px;
-}
-
 img {
     width: 500px;
     height: 300px;
@@ -55,4 +50,6 @@ aside {
     padding-left: 15px;
     margin-left: 15px;
     float: right;
+    font-family: sans-serif;
+    letter-spacing: 1px;
 }
