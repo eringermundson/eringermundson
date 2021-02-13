@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+}
+
+p {
+    width: 500px;
+    border-style: solid 5px white;
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+}
+
+.para1 {
+    background-color: rgb(168, 204, 168);
+    color: rgb(23, 51, 26);
+}
+
+.para2 {
+    background-color: rgb(234, 189, 234);
+    color: rgb(64, 13, 76);
+}
+
+.para3 {
+    background-color: rgb(161, 172, 238);
+    color: rgb(38, 43, 60);
+}
+
+h5 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px -2px rgb(80, 80, 80);
+    font-weight: bold;
+}
