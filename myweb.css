@@ -49,3 +49,15 @@ img {
     border-color: rgb(255, 255, 255);
     float: right;
 }
+
+a:link {
+    color: rgb(255, 68, 191);
+}
+
+a:visited {
+    color: rgb(76, 255, 66);
+}
+
+a:hover {
+    color: rgb(77, 255, 255);
+}
