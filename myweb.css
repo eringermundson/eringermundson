@@ -32,10 +32,3 @@ h2 {
     font-weight: bold;
     text-align: center;
 }
-
-li {
-    background-color: rgb(240, 174, 174);
-    border-style: solid;
-    border-color: rgb(255, 255, 255);
-    font-color: rgb(55, 0, 0);
-}
