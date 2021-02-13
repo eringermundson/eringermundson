@@ -1,3 +1,9 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Erin's Website</title>
+</head>
+<body>
 <div class="grid-container">
   <div class="grid-item">1</div>
   <div class="grid-item">2</div>
@@ -9,3 +15,10 @@
   <div class="grid-item">8</div>
   <div class="grid-item">9</div>
 </div> 
+</body>
+</html>
+
+
+
+         
+
