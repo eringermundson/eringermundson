@@ -26,7 +26,9 @@ p {
 }
 
 .para4 {
-    
+    background-color: rgb(208, 210, 166);
+    color: rgb(94, 91, 17);
+}
 
 h2 {
     font-family: sans-serif;
