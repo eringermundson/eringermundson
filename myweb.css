@@ -25,6 +25,9 @@ p {
     color: rgb(38, 43, 60);
 }
 
+.para4 {
+    
+
 h2 {
     font-family: sans-serif;
     text-shadow: 2px -2px rgb(100, 100, 100);
@@ -38,4 +41,8 @@ img {
     border-style: solid;
     border-color: rgb(255, 255, 255);
     border-margin: 10px;
+}
+
+aside {
+    float: right;
 }
