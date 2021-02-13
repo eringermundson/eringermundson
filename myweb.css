@@ -42,6 +42,9 @@ img {
     height: 300px;
     border-style: solid;
     border-color: rgb(255, 255, 255);
-    border-margin: 10px;
+}
+
+aside {
+    width: 500px;
     float: right;
 }
