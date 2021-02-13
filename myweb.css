@@ -8,25 +8,22 @@ p {
     border-color: rgb(255, 255, 255);
     font-family: Monospace;
     letter-spacing: 1px;
-    text-align: center;
+    float: center;
 }
 
 .para1 {
     background-color: rgb(168, 204, 168);
     color: rgb(23, 51, 26);
-    text-align: center;
 }
 
 .para2 {
     background-color: rgb(234, 189, 234);
     color: rgb(64, 13, 76);
-    text-align: center;
 }
 
 .para3 {
     background-color: rgb(161, 172, 238);
     color: rgb(38, 43, 60);
-    text-align: center;
 }
 
 h2 {
