@@ -45,7 +45,7 @@ h6 {
 img {
     width: 500px;
     height: 300px;
-    border-style: solid 10px;
+    border-style: solid;
     border-color: rgb(255, 255, 255);
     border-radius: 10px;
     float: right;
