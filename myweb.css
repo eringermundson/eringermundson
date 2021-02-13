@@ -26,7 +26,6 @@ p {
 }
 
 .para4 {
-    background-color: rgb(208, 210, 166);
     color: rgb(94, 91, 17);
 }
 
@@ -49,4 +48,8 @@ img {
     border-style: solid;
     border-color: rgb(255, 255, 255);
     float: right;
+}
+
+footer {
+    background-color: rgb(208, 210, 166);
 }
