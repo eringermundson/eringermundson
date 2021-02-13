@@ -4,7 +4,7 @@ body {
 
 p {
     width: 500px;
-    border-style: solid 5px white;
+    border-style: solid, 5px, white;
     font-family:'Courier New', Courier, monospace;
     letter-spacing: 1px;
 }
