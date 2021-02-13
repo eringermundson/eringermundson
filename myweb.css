@@ -4,7 +4,8 @@ body {
 
 p {
     width: 500px;
-    border-style: solid 5px rgb(255, 255, 255);
+    border-style: solid 5px;
+    border-color: rgb(255, 255, 255);
     font-family: Monospace;
     letter-spacing: 1px;
     align: center;
@@ -34,5 +35,6 @@ h2 {
 
 li {
     background-color: rgb(240, 174, 174);
-    border-style: double;
+    border-style: double 2px;
+    border-color: rgb(255, 255, 255);
 }
