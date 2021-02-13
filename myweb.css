@@ -37,4 +37,6 @@ li {
     background-color: rgb(240, 174, 174);
     border-style: double 2px;
     border-color: rgb(255, 255, 255);
+    font-color: rgb(55, 0, 0);
+    width: 500px;
 }
